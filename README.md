@@ -1,57 +1,47 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Zauzou</h1>
-<h3 align="center">Computer Science student from Egypt</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ubb-a&label=Profile%20views&color=0e75b6&style=flat" alt="ubb-a" />
-</p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubb-a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubb-a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://profile-counter.glitch.me/Ubb-a/count.svg?"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<p align="left">🤨 About Me<br><br>👋 Hi, I'm Abdelrahman Zauzou, a Computer Science student with a strong passion for programming and technology.💡 I specialize in C++ and love solving complex problems through algorithms and data structures.🚀 I'm interested in competitive programming and constantly improving my problem-solving skills.📚 Always eager to learn new technologies and expand my knowledge in software development.<br><br>🎯 My Goal: To become a highly skilled programmer and contribute to impactful software projects.</p>
 
 ###
 
-<h3 align="left">🏆 Achievements:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubb-a" alt="ubb-a trophies" /></a>
-</p>
-
-###
-
-<h3 align="left">📞 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-zauzou-a3471a33b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-###
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<div align="right">
+  <img height="200" src="https://i.pinimg.com/originals/3b/48/73/3b487309af4dc9953ac24b3ca3ba088f.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ubb-a/ubb-a/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdelrahman-zauzou-a3471a33b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/a_za3zo3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/ub.d" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubb-a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ubb-a/Ubb-a/output/snake.svg" alt="Snake animation" />
 
 ###
