@@ -1,42 +1,42 @@
-# Hi 👋 I'm Abdelrahman
+# 👋 Hi, I'm Abdelrahman
 
 💻 Computer Science Student
 ⚡ Competitive Programming Enthusiast
-🧠 Problem Solver
+🐧 Linux User
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Algorithms & Data Structures**
-* 💻 Interested in **Competitive Programming**
-* ⚡ Love solving problems and optimizing solutions
-* 🧑‍💻 Working mainly with **C++**
+* 🎓 Studying Computer Science
+* 🧠 Practicing **Algorithms & Data Structures**
+* 💻 Competitive Programming using **C++**
+* ⚡ Interested in **Systems & Performance**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Tech Stack
 
-* C++
-* Git
-* Linux
-* VS Code
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
 
 ---
 
-## 📈 Top Languages
+## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
@@ -44,12 +44,12 @@
 
 ## 🧠 Competitive Programming
 
-* Practicing algorithms and data structures
-* Solving problems regularly
-* Improving problem-solving skills
+* Solving problems daily
+* Improving algorithmic thinking
+* Working mainly with **C++**
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
