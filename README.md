@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+I'm+Abdelrahman;Frontend+Developer;Game+Developer"/>
 </p>
 
-<h3 align="center">Frontend React Developer & Game Developer passionate about building interactive experiences</h3>
+<h3 align="center">Frontend React Developer & Game Developer building interactive web experiences and creative games</h3>
 
 <p align="center">
 💬 Ask me about <b>React, JavaScript, Frontend Development, Game Development</b><br>
