@@ -1,46 +1,40 @@
-<h2 align="left">Hi 👋! I'm Abdelrahman — a Computer Science student interested in Competitive Programming and Systems.</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=440047&text=ubb-a&textBg=false&animation=twinkling&descAlign=50&desc=Game%20Developer%20%20Front%20End%20Dev&reversal=false&fontColor=ffffff&descAlignY=63"/>
+</p>
 
-###
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+I'm+Abdelrahman;Frontend+Developer;Game+Developer"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph"/>
-</div>
+<h3 align="center">Frontend React Developer & Game Developer passionate about building interactive experiences</h3>
 
-###
+<p align="center">
+💬 Ask me about <b>React, JavaScript, Frontend Development, Game Development</b><br>
+📫 Reach me at <b>abdelrahman.za3zo3@gmail.com</b><br>
+👨‍💻 Portfolio: <a href="https://abdelrahman-ub.vercel.app/">abdelrahman-ub.vercel.app</a>
+</p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ6N3ZsYTRlYW9sZmZxbGNtOWVnOGp1bDg0N3o4eDBvczE4b3A1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+---
 
-###
+<h3 align="center">Connect with me</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"/>
-</div>
+<p align="center">
+<a href="https://github.com/ubb-a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/ubb-a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://twitter.com/a_za3zo3"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+<a href="https://codeforces.com/profile/ubb_a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="35"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" height="35"/>
-  </a>
-</div>
+<h3 align="center">Languages & Tools</h3>
 
-###
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,css,git,html,illustrator,java,js,linux,photoshop,qt,react,unity,unreal"/>
+</p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ubb-a&theme=react-dark"/>
+</p>
+
