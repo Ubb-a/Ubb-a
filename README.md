@@ -22,6 +22,8 @@
 ## Current Projects
 
 - **[Nabza](https://nabzaa.vercel.app/)** - AI-powered developer portfolio generator with GitHub OAuth and three switchable themes.
+- **[Nazamly](https://nzaml.vercel.app/dashboard)** - Task and notes management platform for organizing work and collaboration across teams.
+
 
 
 ## Activity
