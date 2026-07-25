@@ -21,7 +21,7 @@
 
 ## Current Projects
 
-- **[Nabza](https://github.com/ubb-a)** - AI-powered developer portfolio generator with GitHub OAuth and three switchable themes.
+- **[Nabza](https://nabzaa.vercel.app/)** - AI-powered developer portfolio generator with GitHub OAuth and three switchable themes.
 
 
 ## Activity
