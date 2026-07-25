@@ -1,4 +1,4 @@
-![Banner](./)
+![Banner](./banner.svg)
 
 # Hi, I'm Abdelrahman 👋
 
